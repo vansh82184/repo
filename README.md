@@ -61,19 +61,64 @@ This project is licensed under the MIT License.
 
 ## 📁 Folder Structure
 
-```bash id="mt6y2m"
+```bash
 portfolio/
-├── app/
+├── app/                      # Next.js app router
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   ├── favicon.ico
+│   └── *.png
+│
 ├── components/
-│   └── main/
-├── constants/
-├── lib/
-├── public/
+│   ├── main/                # Main UI sections
+│   │   ├── hero.tsx
+│   │   ├── navbar.tsx
+│   │   ├── about.tsx
+│   │   ├── skills.tsx
+│   │   ├── projects.tsx
+│   │   ├── certifications.tsx
+│   │   ├── experience.tsx
+│   │   ├── achievements.tsx
+│   │   ├── education.tsx
+│   │   ├── contact.tsx
+│   │   ├── footer.tsx
+│   │   └── star-background.tsx
+│   │
+│   └── sub/                 # Smaller reusable components
+│
+├── constants/               # Centralized data (projects, skills, etc.)
+│   └── index.ts
+│
+├── lib/                     # Utility & animation logic
+│   ├── motion.ts
+│   └── utils.ts
+│
+├── public/                  # Static assets
+│   ├── certifications/
+│   ├── profile/
+│   ├── projects/
+│   ├── skills/
+│   ├── videos/
+│   ├── hero-bg.svg
+│   ├── logo.png
+│   ├── lock-main.png
+│   ├── lock-top.png
+│   └── resume.pdf
+│
 ├── config/
-├── tailwind.config.ts
+│   └── index.ts
+│
+├── .eslintrc.json
+├── .gitignore
 ├── next.config.js
-└── package.json
+├── tailwind.config.ts
+├── postcss.config.js
+├── tsconfig.json
+├── package.json
+└── README.md
 ```
+
 
 ---
 
