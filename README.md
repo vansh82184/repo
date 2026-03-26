@@ -33,8 +33,8 @@
 
 ## 🌐 Live Portfolio
 
-👉 **[View Portfolio](https://your-portfolio.vercel.app)**
-*(Replace with your actual deployed link)*
+👉 **[View Portfolio](https://dikshit7-portfolio.vercel.app)**
+
 
 ---
 
