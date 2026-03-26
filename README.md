@@ -1,5 +1,6 @@
-# 👨‍💻 Dikshit Kamboj
-
+<p align="center">
+    # 👨‍💻 Dikshit Kamboj
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Building+Modern+Web+Applications" />
 </p>
