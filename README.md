@@ -177,6 +177,11 @@ npm run dev
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshit13&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshit13&layout=compact&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 👨‍💻 Author
