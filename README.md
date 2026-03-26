@@ -4,13 +4,7 @@
   <b>Full Stack Developer | MERN Stack | DSA Enthusiast</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dikshit13">
-    <img src="https://img.shields.io/github/followers/dikshit13?style=social" />
-  </a>
-  <img src="https://img.shields.io/github/stars/dikshit13/portfolio?style=social" />
-  <img src="https://img.shields.io/github/forks/dikshit13/portfolio?style=social" />
-</p>
+
 
 
 <p align="center">
