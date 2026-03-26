@@ -5,13 +5,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dikshit13">
-    <img src="https://img.shields.io/github/followers/dikshit13?label=Followers&style=social" />
-  </a>
-  <img src="https://img.shields.io/github/license/dikshit13/portfolio" />
+
+<a href="https://github.com/dikshit13">
+  <img src="https://img.shields.io/github/followers/dikshit13?label=Followers&style=social" />
+</a>
+
+<a href="https://github.com/dikshit13/portfolio/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/dikshit13/portfolio?label=License" />
+</a>
+
+<a href="https://github.com/dikshit13/portfolio/commits/main">
+  <img src="https://img.shields.io/github/commit-activity/m/dikshit13/portfolio?label=Commits" />
+</a>
+
+<a href="https://github.com/dikshit13/portfolio/stargazers">
   <img src="https://img.shields.io/github/stars/dikshit13/portfolio?style=social" />
+</a>
+
+<a href="https://github.com/dikshit13/portfolio/network/members">
   <img src="https://img.shields.io/github/forks/dikshit13/portfolio?style=social" />
+</a>
+
 </p>
+
 
 ---
 
