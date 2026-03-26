@@ -1,12 +1,3 @@
-
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-
-
-
 # 👨‍💻 Dikshit Kamboj
 
 <p align="center">
@@ -40,12 +31,6 @@ This project is licensed under the MIT License.
 > 💡 Replace this with your actual screenshot or GIF
 
 ---
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,git,github,postman" />
-</p>
 
 ---
 
@@ -234,7 +219,7 @@ MIT License
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
