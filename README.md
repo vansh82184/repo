@@ -324,11 +324,20 @@ MIT License
 
 ---
 
-## ⚡ Tech Stack
+
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,git,github,postman" />
+
+<img src="https://cdn.simpleicons.org/react" height="50" style="margin:10px;padding:12px;background:#1e293b;border-radius:12px;" />
+<img src="https://cdn.simpleicons.org/nextdotjs" height="50" style="margin:10px;padding:12px;background:#1e293b;border-radius:12px;" />
+<img src="https://cdn.simpleicons.org/typescript" height="50" style="margin:10px;padding:12px;background:#1e293b;border-radius:12px;" />
+<img src="https://cdn.simpleicons.org/tailwindcss" height="50" style="margin:10px;padding:12px;background:#1e293b;border-radius:12px;" />
+<img src="https://cdn.simpleicons.org/threejs" height="50" style="margin:10px;padding:12px;background:#1e293b;border-radius:12px;" />
+
 </p>
+
 
 ---
 
