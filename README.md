@@ -180,6 +180,7 @@ npm run dev
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshit13&layout=compact&theme=tokyonight" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshit13&theme=tokyo-night" />
 
 
 ---
