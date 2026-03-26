@@ -39,13 +39,12 @@
 
 ---
 
-## 🎥 Portfolio Preview
+## 📸 Portfolio Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x500.png?text=Portfolio+Preview" />
+  <img src="./public/screenshots/home.png" width="800" alt="Portfolio Home Preview" />
 </p>
 
-> Replace this with your real screenshot or GIF
 
 ---
 
