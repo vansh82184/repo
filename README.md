@@ -169,18 +169,21 @@ npm run dev
 * Framer Motion
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshit13&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshit13&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshit13&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshit13&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshit13&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshit13&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshit13&theme=tokyo-night" />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshit13&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 
 ---
